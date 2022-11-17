@@ -1,0 +1,53 @@
+#blog h3,h4,p {
+    text-align: center;
+}
+
+#blog .contenedor{
+    display:flex;
+    padding-bottom: 60px;
+}
+
+#blog article{
+    margin: 25px;
+}
+
+#blog img{
+    max-width: 520px;
+    width: 320px;
+    height: 320px;
+    border: 7px solid #333;
+}
+
+#bienvenidos h2{
+    padding: 35px;
+    text-align: center;
+    font-size: 45px;
+}
+
+#bienvenidos p{
+    font-size: 20px;
+    padding-bottom: 100px;
+}
+
+.registro {
+    position: relative;
+    bottom: 12px;
+    font-size: 24px;
+    left: 55px;
+    padding-bottom: 12px;
+}
+
+.programa {
+    position: relative;
+    bottom: 12px;
+    font-size: 24px;
+    left: 60px;
+    padding-bottom: 12px;
+}
+
+.soporte {
+    bottom: 12px;
+    position: relative;
+    font-size: 24px;
+    left: 90px;
+}
